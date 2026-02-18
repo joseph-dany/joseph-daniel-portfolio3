@@ -308,7 +308,7 @@
   <h2>Experience</h2>
   <div class="card">
     <h3>Data Analyst – Coding Ninjas</h3>
-    <p><strong>01/2025 – 03/2025</strong> | Hyderabad, India</p>
+    <p><strong>06/2025 – 12/2025</strong> | Hyderabad, India</p>
     <ul style="margin-top:16px; padding-left:18px;">
       <li>120+ hours of intensive training in Python, SQL, Power BI, and Advanced Excel.</li>
       <li>Executed 2 end-to-end projects translating business needs into insights.</li>
